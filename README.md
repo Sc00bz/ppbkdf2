@@ -1,2 +1,2 @@
-# ppbkdf2
-Parallel PBKDF2 - A computationally hard password KDF
+# Parallel PBKDF2 (PPBKDF2)
+A computationally hard password KDF
